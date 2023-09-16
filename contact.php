@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 /**
  * EDIT THE VALUES BELOW THIS LINE TO ADJUST THE CONFIGURATION
  * EACH OPTION HAS A COMMENT ABOVE IT WITH A DESCRIPTION
@@ -108,4 +108,4 @@ if(
 		echo json_encode( $json_arr );	
 	}
 
-}
+} -->
